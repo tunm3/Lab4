@@ -1,0 +1,7 @@
+F:\GITHUB\Lap4\Lap\bin\Debug\Lap.exe.config
+F:\GITHUB\Lap4\Lap\bin\Debug\Lap.exe
+F:\GITHUB\Lap4\Lap\bin\Debug\Lap.pdb
+F:\GITHUB\Lap4\Lap\obj\Debug\Lab.csprojAssemblyReference.cache
+F:\GITHUB\Lap4\Lap\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+F:\GITHUB\Lap4\Lap\obj\Debug\Lap.exe
+F:\GITHUB\Lap4\Lap\obj\Debug\Lap.pdb
